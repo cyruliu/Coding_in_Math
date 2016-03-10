@@ -1,4 +1,5 @@
 These parograms include the basic mathematical algorithms, which are usually used in computaional mathematics, the details are as follow:
  1,Guass method for equations solving;
  2,LU decomposition(where 'LU' stands for 'lower upper')factors a matrix as the product of lower triangular matrix and upper triangular matrix.
- 3, ...
+ 3,Newton method is a numerical way to solve linear equaltions which are successive differentiable at its zero points.
+ ...
