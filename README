@@ -3,4 +3,5 @@ These parograms include the basic mathematical algorithms, which are usually use
  2, LU decomposition(where 'LU' stands for 'lower upper')factors a matrix as the product of lower triangular matrix and upper triangular matrix.
  3, Newton method is a numerical way to solve linear equaltions which are successive differentiable at its zero points.
  4, Secant method for equation solving is a application of Newton iteration formula.
- 5, ...
+ 5, Analysis of variance is a collection of statistical models used to analyze the differences among group means and their associated procedures. This sample program demonstrates a single factor analysis of variance. 
+ ...
